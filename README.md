@@ -64,3 +64,4 @@ This project is configured to deploy seamlessly on Cloudflare Pages.
 ---
 
 © 2025 Daniel Rivenbark. All rights reserved.
+
